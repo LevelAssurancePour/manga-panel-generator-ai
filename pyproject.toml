@@ -1,0 +1,8 @@
+[project]
+name = "manga-panel-generator-ai"
+version = "0.6.3"
+description = "AI-powered desktop generator for manga panels and full pages (SDXL + LoRA, RTL layout, screentone)."
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{ name = "mpg-ai maintainers", email = "dev@manga-panel-generator-ai.dev" }]
+license = { text = "GPL-3.0-or-later
